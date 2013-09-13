@@ -1,0 +1,17 @@
+dn: uid=barret,ou=People,dc=comp665
+mail: barret@comp665
+uid: barret
+givenName: Barret
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetorgperson
+objectClass: posixAccount
+sn: Wallace
+cn: Barret Wallace
+uidNumber: 5002
+gidNumber: 5000
+homeDirectory: /home/barret
+loginShell: /bin/bash
+gecos: Barret Wallace
+userPassword: 032687

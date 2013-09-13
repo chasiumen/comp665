@@ -1,0 +1,5 @@
+default centos64
+
+label centos64
+    kernel centos64/vmlinuz
+    append initrd=centos64/initrd.img ks=nfs:centos-server.comp665:/export/centos64/KS_CONF.ks.cfg

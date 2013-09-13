@@ -1,0 +1,4 @@
+dn: cn=avalanche,ou=People,dc=comp665
+changetype: modify
+add: uniqueMember
+uniqueMember: uid=barret,ou=People,dc=comp665

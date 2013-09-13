@@ -1,0 +1,17 @@
+dn: uid=rey,ou=People,dc=comp665
+mail: rey@comp665
+uid: rey
+givenName: Rey
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetorgperson
+objectClass: posixAccount
+sn: Zhao
+cn: Rey Zhao
+uidNumber: 5003
+gidNumber: 5555
+homeDirectory: /home/rey
+loginShell: /bin/bash
+gecos: Rey Zhao
+userPassword: 032687

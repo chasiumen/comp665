@@ -1,0 +1,4 @@
+dn: cn=GROUP_NAME,ou=People,dc=comp665
+changetype: modify
+add: uniqueMember
+uniqueMember: uid=UNAME,ou=People,dc=comp665

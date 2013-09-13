@@ -1,0 +1,17 @@
+dn: uid=UNAME,ou=People,dc=comp665
+mail: UNAME@comp665
+uid: UNAME
+givenName: FNAME
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetorgperson
+objectClass: posixAccount
+sn: LNAME
+cn: FNAME LNAME
+uidNumber: UID_NUM
+gidNumber: GID_NUM
+homeDirectory: /home/UNAME
+loginShell: /bin/bash
+gecos: FNAME LNAME
+userPassword: 032687
